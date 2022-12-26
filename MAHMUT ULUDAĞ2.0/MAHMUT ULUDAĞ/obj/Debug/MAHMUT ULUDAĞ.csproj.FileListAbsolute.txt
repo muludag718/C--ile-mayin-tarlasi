@@ -1,0 +1,22 @@
+C:\Users\mahmut\source\MAHMUT ULUDAĞ\MAHMUT ULUDAĞ\bin\Debug\MAHMUT ULUDAĞ.exe.config
+C:\Users\mahmut\source\MAHMUT ULUDAĞ\MAHMUT ULUDAĞ\bin\Debug\MAHMUT ULUDAĞ.exe
+C:\Users\mahmut\source\MAHMUT ULUDAĞ\MAHMUT ULUDAĞ\bin\Debug\MAHMUT ULUDAĞ.pdb
+C:\Users\mahmut\source\MAHMUT ULUDAĞ\MAHMUT ULUDAĞ\obj\Debug\MAHMUT ULUDAĞ.csprojAssemblyReference.cache
+C:\Users\mahmut\source\MAHMUT ULUDAĞ\MAHMUT ULUDAĞ\obj\Debug\MAHMUT_ULUDAĞ.Form1.resources
+C:\Users\mahmut\source\MAHMUT ULUDAĞ\MAHMUT ULUDAĞ\obj\Debug\MAHMUT_ULUDAĞ.Properties.Resources.resources
+C:\Users\mahmut\source\MAHMUT ULUDAĞ\MAHMUT ULUDAĞ\obj\Debug\MAHMUT ULUDAĞ.csproj.GenerateResource.cache
+C:\Users\mahmut\source\MAHMUT ULUDAĞ\MAHMUT ULUDAĞ\obj\Debug\MAHMUT ULUDAĞ.csproj.CoreCompileInputs.cache
+C:\Users\mahmut\source\MAHMUT ULUDAĞ\MAHMUT ULUDAĞ\obj\Debug\MAHMUT ULUDAĞ.exe
+C:\Users\mahmut\source\MAHMUT ULUDAĞ\MAHMUT ULUDAĞ\obj\Debug\MAHMUT ULUDAĞ.pdb
+C:\Users\mahmut\source\MAHMUT ULUDAĞ\MAHMUT ULUDAĞ\obj\Debug\MAHMUT_ULUDAĞ.Form2.resources
+C:\Users\Uludag\Desktop\EEM\C#\word projem\MAHMUT ULUDAĞ2.0\MAHMUT ULUDAĞ\obj\Debug\MAHMUT ULUDAĞ.csproj.AssemblyReference.cache
+C:\Users\Uludag\Desktop\EEM\C#\word projem\MAHMUT ULUDAĞ2.0\MAHMUT ULUDAĞ\obj\Debug\MAHMUT_ULUDAĞ.Form1.resources
+C:\Users\Uludag\Desktop\EEM\C#\word projem\MAHMUT ULUDAĞ2.0\MAHMUT ULUDAĞ\obj\Debug\MAHMUT_ULUDAĞ.Form2.resources
+C:\Users\Uludag\Desktop\EEM\C#\word projem\MAHMUT ULUDAĞ2.0\MAHMUT ULUDAĞ\obj\Debug\MAHMUT ULUDAĞ.csproj.GenerateResource.cache
+C:\Users\Uludag\Desktop\EEM\C#\word projem\MAHMUT ULUDAĞ2.0\MAHMUT ULUDAĞ\obj\Debug\MAHMUT ULUDAĞ.exe
+C:\Users\Uludag\Desktop\EEM\C#\word projem\MAHMUT ULUDAĞ2.0\MAHMUT ULUDAĞ\obj\Debug\MAHMUT ULUDAĞ.pdb
+C:\Users\Uludag\Desktop\EEM\C#\word projem\MAHMUT ULUDAĞ2.0\MAHMUT ULUDAĞ\bin\Debug\MAHMUT ULUDAĞ.exe.config
+C:\Users\Uludag\Desktop\EEM\C#\word projem\MAHMUT ULUDAĞ2.0\MAHMUT ULUDAĞ\bin\Debug\MAHMUT ULUDAĞ.exe
+C:\Users\Uludag\Desktop\EEM\C#\word projem\MAHMUT ULUDAĞ2.0\MAHMUT ULUDAĞ\bin\Debug\MAHMUT ULUDAĞ.pdb
+C:\Users\Uludag\Desktop\EEM\C#\word projem\MAHMUT ULUDAĞ2.0\MAHMUT ULUDAĞ\obj\Debug\MAHMUT_ULUDAĞ.Properties.Resources.resources
+C:\Users\Uludag\Desktop\EEM\C#\word projem\MAHMUT ULUDAĞ2.0\MAHMUT ULUDAĞ\obj\Debug\MAHMUT ULUDAĞ.csproj.CoreCompileInputs.cache
